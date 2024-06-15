@@ -3,6 +3,7 @@ class Solution
 public:
 
     int first(vector<int>& nums, int target)
+    // checking
     {
         int s = 0;
         int e = nums.size() -1;
